@@ -46,9 +46,9 @@
 [добавление агентов с именами Ubuntu и Kali](https://github.com/Bespochadny/8-03-hw/blob/main/img/task_21.png);
 [получение метрик от добавленных агентов](https://github.com/Bespochadny/8-03-hw/blob/main/img/task_2.png);
 [привязка к агентам пользовательских Item](https://github.com/Bespochadny/8-03-hw/blob/main/img/task_3.png);
-[привязка к агентам пользовательских Item](https://github.com/Bespochadny/8-03-hw/blob/main/img/task_31.png)
-[получение метрик от агентов с пользовательским и стандартным шаблонами](https://github.com/Bespochadny/8-03-hw/blob/main/img/task_32.png)
-[получение метрик от агентов с пользовательским и стандартным шаблонами](https://github.com/Bespochadny/8-03-hw/blob/main/img/task_33.png)
+[привязка к агентам пользовательских Item](https://github.com/Bespochadny/8-03-hw/blob/main/img/task_31.png);
+[получение метрик от агентов с пользовательским и стандартным шаблонами](https://github.com/Bespochadny/8-03-hw/blob/main/img/task_32.png);
+[получение метрик от агентов с пользовательским и стандартным шаблонами](https://github.com/Bespochadny/8-03-hw/blob/main/img/task_33.png).
 
 
 ## Задание 4
