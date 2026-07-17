@@ -11,7 +11,7 @@
 Создайте Item который будет собирать информацию об загрузке RAM в процентах.
 
 
-[созданные Item](https://github.com/Bespochadny/8-03-hw/blob/main/img/task_1.png)
+[созданные Item](/img/task_1.png)
 
 ---
 
